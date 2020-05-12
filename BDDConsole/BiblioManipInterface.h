@@ -1,6 +1,7 @@
 #pragma once
 #include <string>
 
+/// \brief interface pour la manipulation de la bibliothèque
 class BiblioInterface
 {
 public:
